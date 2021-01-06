@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/address-book-ui/static/css/main.d3f4fa9b.chunk.css",
+    "main.js": "/address-book-ui/static/js/main.32548610.chunk.js",
+    "main.js.map": "/address-book-ui/static/js/main.32548610.chunk.js.map",
+    "runtime-main.js": "/address-book-ui/static/js/runtime-main.8271d890.js",
+    "runtime-main.js.map": "/address-book-ui/static/js/runtime-main.8271d890.js.map",
+    "static/css/2.7434db16.chunk.css": "/address-book-ui/static/css/2.7434db16.chunk.css",
+    "static/js/2.42193458.chunk.js": "/address-book-ui/static/js/2.42193458.chunk.js",
+    "static/js/2.42193458.chunk.js.map": "/address-book-ui/static/js/2.42193458.chunk.js.map",
+    "index.html": "/address-book-ui/index.html",
+    "static/css/2.7434db16.chunk.css.map": "/address-book-ui/static/css/2.7434db16.chunk.css.map",
+    "static/css/main.d3f4fa9b.chunk.css.map": "/address-book-ui/static/css/main.d3f4fa9b.chunk.css.map",
+    "static/js/2.42193458.chunk.js.LICENSE.txt": "/address-book-ui/static/js/2.42193458.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/address-book-ui/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8271d890.js",
+    "static/css/2.7434db16.chunk.css",
+    "static/js/2.42193458.chunk.js",
+    "static/css/main.d3f4fa9b.chunk.css",
+    "static/js/main.32548610.chunk.js"
+  ]
+}

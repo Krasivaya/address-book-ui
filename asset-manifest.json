@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/address-book-ui/static/css/main.d3f4fa9b.chunk.css",
-    "main.js": "/address-book-ui/static/js/main.32548610.chunk.js",
-    "main.js.map": "/address-book-ui/static/js/main.32548610.chunk.js.map",
+    "main.js": "/address-book-ui/static/js/main.3903620b.chunk.js",
+    "main.js.map": "/address-book-ui/static/js/main.3903620b.chunk.js.map",
     "runtime-main.js": "/address-book-ui/static/js/runtime-main.8271d890.js",
     "runtime-main.js.map": "/address-book-ui/static/js/runtime-main.8271d890.js.map",
     "static/css/2.7434db16.chunk.css": "/address-book-ui/static/css/2.7434db16.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.7434db16.chunk.css",
     "static/js/2.42193458.chunk.js",
     "static/css/main.d3f4fa9b.chunk.css",
-    "static/js/main.32548610.chunk.js"
+    "static/js/main.3903620b.chunk.js"
   ]
 }
